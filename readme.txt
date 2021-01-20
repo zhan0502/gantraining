@@ -1,0 +1,6 @@
+1. This script assumes D_cnn.pth, G_cnn.pth, Discriminator_cnn.py, Generator_cnn.py (trained models) are at the same directory with run.py to be loaded.
+2. This script assumes score.py are in the same directory with run.py.
+3. This script was tested successful when X_test.pt and Z_test.pt are placed in the same directory with run.py.
+3. This script processes input in cuda(set in run.py). 
+
+ 
